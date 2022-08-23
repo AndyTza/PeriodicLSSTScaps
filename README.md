@@ -3,10 +3,10 @@
 Here we provide brief tutorials/demos of how to analyze and use periodic transients in the era of the [Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST)](https://www.lsst.org/).
 
 
-###Demo
+### Demo
 ---
-`[1.1 - 22] - Periodic ELASTICC Demo using GatsPy`
-  >> Here 
+Tutorial 1: `[Tutorial 1.0 - 22] - Periodic ELASTICC Demo using GatsPy`
+  > Basic use of GastPy features and Lomb-Scargle Periodogram
 
 ###Acknowledgements
 ---

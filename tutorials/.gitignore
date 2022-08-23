@@ -1,0 +1,18 @@
+# Compiled files
+*.py[cod]
+*.a
+*.o
+*.so
+__pycache__
+
+# Ignore .c files by default to avoid including generated code. If you want to
+# add a non-generated .c extension, use `git add -f filename.c`.
+*.c
+
+# Other generated files
+*/version.py
+*/cython_version.py
+htmlcov
+.coverage
+MANIFEST
+.ipynb_checkpoints
