@@ -1,13 +1,3 @@
-# %ECSV 1.0
-# ---
-# datatype:
-# - {name: mjd, datatype: float64}
-# - {name: flux, datatype: float32}
-# - {name: flux_err, datatype: float32}
-# - {name: band, datatype: string}
-# meta: {true_period: 0.770579}
-# schema: astropy-2.0
-mjd flux flux_err band
 60382.4081 -256.80377 10.495563 r
 60385.3852 120.68713 10.222176 r
 60385.4085 130.62044 13.114544 i
